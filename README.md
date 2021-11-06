@@ -2,7 +2,7 @@
 
 # A powerful and advanced injector in a simple GUI! If you're wondering, this was coded in C#. This is a rewrite of the widely known v2.1 which can be found here.
 
-![image](https://user-images.githubusercontent.com/84892309/140618184-0e3cc489-6cd6-4430-8547-47b3d85e854e.png)
+![image](https://user-images.githubusercontent.com/84892309/140618228-c5d05e21-e412-4d5e-82fb-4bf171f88bbd.png)
 ![image](https://user-images.githubusercontent.com/84892309/140618190-1c038ae2-6aa3-4936-8022-055ea5af9a07.png)
 ![image](https://user-images.githubusercontent.com/84892309/140618218-28dfb7d9-d8ac-4a58-8bf7-b829b1d941b5.png)
 
