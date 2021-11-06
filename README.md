@@ -2,6 +2,9 @@
 
 # A powerful and advanced injector in a simple GUI! If you're wondering, this was coded in C#. This is a rewrite of the widely known v2.1 which can be found here.
 
+![image](https://user-images.githubusercontent.com/84892309/140618184-0e3cc489-6cd6-4430-8547-47b3d85e854e.png)
+![image](https://user-images.githubusercontent.com/84892309/140618190-1c038ae2-6aa3-4936-8022-055ea5af9a07.png)
+![image](https://user-images.githubusercontent.com/84892309/140618199-0a6ade94-f3d6-4a2c-99e0-eee294b42a1c.png)
 
 
 
