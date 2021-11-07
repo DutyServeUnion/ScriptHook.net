@@ -1,7 +1,7 @@
 # Do not be retarded okay?
 
 
-#LICENSE
+# LICENSE
 This work is under the 'KNOW LICENSE'
 
 You are not allowed to use this in any circumstance without written permission from Minty. If you do use this without Mintys permission, you are responsible for any misdemeanors that you have caused with my code. I am not responsible for any damage or trouble if you use this project without my written consent. You aren't allowed to use this for private, public or any type of use. You can't trademark, patent or unclaim any part of this project is yours. You are not allowed to take a chunk of code without my written consent. This is pretty to view, don't use this, at all. I will as I like, report in any way if you are using my work.
